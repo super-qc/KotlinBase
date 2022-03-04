@@ -1,6 +1,6 @@
 # KotlinBase
 kotlin基础学习，包含语法和基础特性
-
+使用开发工具：IntelliJ IDEA 2021.2.1(Ultimate Edition)
 包含内容： 
     语言声明变量与内置数据类型  
     kotlin 语言的只读类型  
